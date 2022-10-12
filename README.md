@@ -1,4 +1,4 @@
-## Hola 👋, soy Gabriel Ferrer  
+## Hola 👋, Soy Gabriel Ferrer  
   
 
 <a href="https://github.com/Gabox18" target="_blank">
@@ -17,7 +17,7 @@ Soy un desarrollador full-stack con experiencia en la creación de interfaces de
 
 
 
-## Languages and Tools  
+## Lenguajes y Herramientas  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
