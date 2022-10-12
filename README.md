@@ -45,14 +45,9 @@ Soy un desarrollador full-stack con experiencia en la creación de interfaces de
 
 </td></tr></table>  
 
+<br/>    
+<br/>   
 <br/>  
-
-  
-<br/>  
-
-  
-<br/>  
-
 <br />
 
 ----
