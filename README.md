@@ -48,13 +48,10 @@ Soy un desarrollador full-stack con experiencia en la creación de interfaces de
 <br/>  
 
   
-
 <br/>  
 
   
-
 <br/>  
-
 
 <br />
 
