@@ -12,7 +12,7 @@
 
 
 ### Un poco sobre mi  
-Soy un desarrollador full-stack con experiencia en la creación de interfaces de usuario interactivas principalmente trabajando con React , también con trabajos grupales en la parte de Back-end con tecnologías como Node, Sequelize y Postgresql  
+Soy un desarrollador Web full-stack con experiencia en la creación de interfaces de usuario interactivas principalmente trabajando con React , también con trabajos grupales en la parte de Back-end con tecnologías como Node, Sequelize y Postgresql  
   
 
 
